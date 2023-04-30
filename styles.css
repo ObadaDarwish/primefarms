@@ -1,0 +1,13 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#coming_soon{
+    width: auto;
+    height: 400px;
+}
