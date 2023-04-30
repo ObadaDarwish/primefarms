@@ -11,3 +11,11 @@ body{
     width: auto;
     height: 400px;
 }
+
+@media screen and (max-width: 600px) {
+
+    #coming_soon{
+        width: 90%;
+        height: auto;
+    }
+}
